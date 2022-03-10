@@ -48,10 +48,13 @@ The 5th challenge was to apply everything learned so far and create a blog from 
 <br/>
 
 ### 🛠 Technologies
-Developed with ReactJS and TypeScript.
+Developed with ReactJS, Next.js, TypeScript, and Prismic.
 
-- **[React.js](https://reactjs.org/)**
+- **[ReactJS](https://reactjs.org/)**
+- **[Next.js](https://nextjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
+- **[Prismic](https://prismic.io/)**
+
 <br>
 
 ## 🏁 Starting the project:
